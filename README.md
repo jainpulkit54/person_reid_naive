@@ -30,3 +30,12 @@ Moreover the training logs can be visualized by following instructions as:<br>
 <code>http://localhost:6006/</code>
 
 ### Performance Evaluation
+The performance evaluation code is taken from <a href = "https://github.com/VisualComputingInstitute/triplet-reid">this repository</a>.<br>
+The results are summarized in the table below:<br>
+|mAP|top-1|top-2|top-5|top-10|
+|---|-----|-----|-----|------|
+|8.70%|20.34%|28.50%|40.53%|51.28%|
+
+### Weights
+The weights obtained using this repository can be downloaded using the following link:<br>
+https://drive.google.com/file/d/1Fd9RYd-0B-PbmZueWtaGnYE7CkTb8CY1/view?usp=sharing
